@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Shirakk
-- 👀 I’m interested in 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Python, Bash
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+MI nombre es santiago catriman, actualmente soy estudiante de la Universidad de Rio Negro en la carrera de Ingenira en Computacion.
+
+Aguante el 🧉 🤪🤪. 
+
 
 <!---
 Shirakk/Shirakk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
