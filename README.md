@@ -7,6 +7,8 @@ Estudiante de Ingenieria en computacion
 Actualmente soy estudiante de la carrera de Ingenieria en computacion en la Universidad Nacional de Rio Negro. 
 Aguante el 🧉 y Messi 🤪🤪
 
+![Badge](https://bit.ly/icom-badge)
+
 * 🤝  I'm open to collaborating on OpenSource projects and Free Software projects.
 
 ### Skills
