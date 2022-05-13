@@ -7,6 +7,7 @@ Estudiante de Ingenieria en computacion
 Actualmente soy estudiante de la carrera de Ingenieria en computacion en la Universidad Nacional de Rio Negro. 
 Aguante el 🧉 y Messi 🤪🤪
 
+![Badge](https://bit.ly/icom-badge)
 * 🤝  I'm open to collaborating on OpenSource projects and Free Software projects.
 
 ### Skills
@@ -39,4 +40,4 @@ Aguante el 🧉 y Messi 🤪🤪
 Shirakk/Shirakk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Badge](https://bit.ly/icom-badge)
+
