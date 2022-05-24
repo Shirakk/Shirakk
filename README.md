@@ -7,6 +7,8 @@ Estudiante de Ingenieria en computacion
 Actualmente soy estudiante de la carrera de Ingenieria en computacion en la Universidad Nacional de Rio Negro. 
 Aguante el 🧉, el fulvo y Messi 🤪🤪
 
+<a href="https://www.github.com/Shirakk" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Shirakk?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ![Badge](https://bit.ly/icom-badge)
 * 🤝  I'm open to collaborating on OpenSource projects and Free Software projects.
 
@@ -34,7 +36,7 @@ Aguante el 🧉, el fulvo y Messi 🤪🤪
 
 <a href="https://github.com/Shirakk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirakk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="http://www.github.com/Shirakk"><img src="https://activity-graph.herokuapp.com/graph?username=Shirakk&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!---<a href="http://www.github.com/Shirakk"><img src="https://activity-graph.herokuapp.com/graph?username=Shirakk&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>--->
 
 <!---
 Shirakk/Shirakk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
