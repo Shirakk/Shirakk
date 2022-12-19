@@ -38,7 +38,7 @@ src="https://img.shields.io/github/followers/Shirakk?logo=github&style=for-the-b
 
 
 
-<!-- <a href="http://www.github.com/Shirakk"><img src="https://activity-graph.herokuapp.com/graph?username=Shirakk&bg_color=1c1917&color=ffffff&line=84cc16&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+<a href="http://www.github.com/Shirakk"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shirakk&bg_color=1c1917&color=ffffff&line=facc15&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 
