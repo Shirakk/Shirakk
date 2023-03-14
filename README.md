@@ -6,7 +6,7 @@ Estudiante de Ingenieria en computacion
 ---------------------------------------
 
 Actualmente soy estudiante de la carrera de Ingenieria en computacion en la Universidad Nacional de Rio Negro. 
-Aguante el 🧉, el fulvo y Messi 🤪🤪
+Aguante el 🧉, la scaloneta⭐🌟⭐ y Messi 🤪🤪
 
 <!--- <a href="https://www.twitter.com/Shirak_2045" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Shirak_2045?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
