@@ -2,7 +2,7 @@
 
 ==================================
 
-Estudiante de Ingenieria en computación
+Estudiante de Ingeniería en computación
 ---------------------------------------
 
 
