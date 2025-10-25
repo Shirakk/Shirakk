@@ -21,7 +21,8 @@ src="https://img.shields.io/github/followers/Shirakk?logo=github&style=for-the-b
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://cdn.svglogos.dev/logos/css-3.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.svglogos.dev/logos/mysql-icon.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.svglogos.dev/logos/git-icon.svg" width="36" height="36" alt="Git" title="Git"/></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://cdn.svglogos.dev/logos/intellij-idea.svg" width="36" height="36" alt="IntelliJ IDEA" title="IntelliJ IDEA"/></a>  
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://cdn.svglogos.dev/logos/linux-tux.svg" width="36" height="36" alt="Linux" title="Linux"/></a>
 <a href="https://www.microsoft.com/en-us/windows/?r=1" target="_blank" rel="noreferrer"><img src="https://cdn.svglogos.dev/logos/microsoft-windows-icon.svg" width="36" height="36" alt="Microsoft Windows" title="Windows"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.svglogos.dev/logos/bash-icon.svg" width="36" height="36" alt="GNU Bash" title="GNU Bash"/></a> 
