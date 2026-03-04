@@ -30,10 +30,6 @@ src="https://img.shields.io/github/followers/Shirakk?logo=github&style=for-the-b
 </p>
 
 
-### Socials
-
-<p align="left"><a href="https://www.linkedin.com/in/santiago-catriman/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.svglogos.dev/logos/linkedin-icon.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://cdn.svglogos.dev/logos/linkedin-icon.svg" /> <img src="https://cdn.svglogos.dev/logos/linkedin-icon.svg" width="32" height="32" /> </picture> </a></p>
-
 ### Badges
 
 <b>My GitHub Stats</b>
